@@ -1,0 +1,8 @@
+<lccdd>
+  <detectors>detector
+    <detector id="MRICH_ID" name="MRICH" type="DD4hep_GdmlDetector" vis="InvisibleWithDaughters">
+      <gdmlFile ref="mrich.gdml" />
+      <parent name="/world_volume" />
+    </detector>
+  </detectors>
+</lccdd>
