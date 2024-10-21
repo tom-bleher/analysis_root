@@ -1,0 +1,11 @@
+<lccdd>
+
+  <include ref="magnets.xml" />
+
+  
+  <include ref="taggers.xml" />
+
+  
+  <include ref="lumi.xml" />
+
+</lccdd>
